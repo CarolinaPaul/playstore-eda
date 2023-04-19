@@ -3,9 +3,9 @@ Google Play Store is a major app distribution platform for Android users.Due to 
 
 The aim of this project was to identify the key factors responsible for app engagement and success by performing exploratory data analysis on the two datasets provided:
 
-    1. Playstore apps data: contains details regarding the category, rating and several other factors about the apps.
+1. Playstore apps data: contains details regarding the category, rating and several other factors about the apps.
 
-    2. User reviews data: the customer reviews for the apps.
+2. User reviews data: the customer reviews for the apps.
 
 After performing the data cleaning, the impact of features like Type,Category, Price, Size Group, and Last Update Year on the Installs,Rating and Reviews are analysed
 
